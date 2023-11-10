@@ -91,8 +91,19 @@
             ],
             "scripts": []
           }
+        },
+        "deploy": {
+          "builder": "@netlify-builder/deploy:deploy",
+          "options": {
+            "outputPath": "dist/website",
+            "netlifyToken": "",
+            "siteId": ""
+          }
         }
       }
     }
+  },
+  "cli": {
+    "analytics": false
   }
 }
