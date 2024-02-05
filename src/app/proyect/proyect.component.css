@@ -115,64 +115,63 @@
   }
   
   .img-proyect-1 {
-    background: url(https://drive.google.com/uc?export=download&id=1nHBv4pfYC6oqdXhFBlMj4HojBSBgQSjy);
+    background: url(../img/folclor.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
   }
   
   .img-proyect-2 {
-    background: url(https://drive.google.com/uc?export=download&id=122LjcpSHGaK4p4ILAti_TYCe6x0fwyqh);
+    background: url(../img/bocadillo.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position-y:40%;
   }
   
   .img-proyect-3 {
-   /* background: url("../../public/images/Songy.png");*/
+    background: url(../img/portafolio.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
   }
-  
   .img-proyect-4 {
-   /* background: url("../../public/images/NoteCloud.png");*/
-    background-size: contain;
+    background: url(../img/reconocimiento_.jpg);
+    background-size: cover;
     background-repeat: no-repeat;
-    background-position-y: top;
+    background-position-y:40%;
   }
-  
   .img-proyect-5 {
-   /* background: url("../../public/images/Transporte.png");*/
+    background: url(../img/tienda.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
   }
+  
   .skill-a {
     width: 2.5rem;
     height: 2.5rem;
-    background-image: url(https://drive.google.com/uc?export=download&id=1AyX4CxOm0kw3Ot7bCovYRxIJv00rY6eR); /*css*/
+    background-image: url(../img/css-3.png); /*css*/
     background-size: contain;
     background-repeat: no-repeat;
   }
   .skill-b {
     width: 2.5rem;
     height: 2.5rem;
-    background-image: url(https://drive.google.com/uc?export=download&id=1tgcPCzLghcstFjplud6IE3nX0agf1sBJ); /*js*/
+    background-image: url(../img/js.png); /*js*/
     background-size: contain;
     background-repeat: no-repeat;
   }
   .skill-c {
     width: 2.5rem;
     height: 2.5rem;
-    background-image: url(https://drive.google.com/uc?export=download&id=180wJjn4bXyux6Q2-sCWh91Aygk91nkuH); /*html*/
+    background-image: url(../img/html.png); /*html*/
     background-size: contain;
     background-repeat: no-repeat;
   }
   .skill-d {
     width: 2.5rem;
     height: 2.5rem;
-    background-image: url(https://drive.google.com/uc?export=download&id=10HBcHfuJJFcOlA3gFYqbe3AjV5L7_RjD); /*python*/
+    background-image: url(../img/python2.jpg); /*python*/
     background-size: contain;
     background-repeat: no-repeat;
   }

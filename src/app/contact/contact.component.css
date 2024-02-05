@@ -86,6 +86,10 @@
   @media only screen and (max-width: 572px) {
     .Contact-title {
       font-size: 1.3rem;
+      
+    }
+    .Contact-container{
+      height: 100%;
     }
     .Contact-subtitle {
       font-size: 0.8rem;

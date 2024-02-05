@@ -78,7 +78,7 @@
   .intro-img {
     width: 20rem;
     height: 20rem;
-    background-image: url(https://drive.google.com/uc?export=download&id=11IKAaRoxekMtAbp1ShPD2GWdpectCwlB);
+    background-image: url(../img/joan.jpg);
     background-repeat: no-repeat;
     background-size: 120%;
     background-position-x: 37%;
@@ -121,7 +121,7 @@
   .skill-a {
     width: 2.5rem;
     height: 2.5rem;
-    background-image: url(https://drive.google.com/uc?export=download&id=1tgcPCzLghcstFjplud6IE3nX0agf1sBJ); /*js*/
+    background-image: url(../img/js.png); /*js*/
     background-size: contain;
     background-repeat: no-repeat;
   }
@@ -129,7 +129,7 @@
   .skill-b {
     width: 2.5rem;
     height: 2.5rem;
-    background-image: url(https://drive.google.com/uc?export=download&id=1IMvTGbtBVWixP1Jx45865hQwoaFhlNtt);/*ts*/
+    background-image: url(../img/typescript.png);/*ts*/
     background-size: contain;
     background-repeat: no-repeat;
   }
@@ -137,7 +137,7 @@
   .skill-c {
     width: 2.5rem;
     height: 3.2rem;
-    background-image: url(https://drive.google.com/uc?export=download&id=1xK7lpwRKBFGAEPtTh4y7QKhVJiTudn2x);/*angular*/
+    background-image: url(../img/angular2.png);/*angular*/
     background-size: contain;
     background-repeat: no-repeat;
   }
@@ -146,7 +146,7 @@
   .skill-d {
     width: 2.5rem;
     height: 2.5rem;
-    background-image: url(https://drive.google.com/uc?export=download&id=1vs8HxAEGDT2Y1oplwgo_58j8GWfrQcUK);/*node*/
+    background-image: url(../img/node.png);/*node*/
     background-size: contain;
     background-repeat: no-repeat;
   }
@@ -156,7 +156,7 @@
   .skill-e {
     width: 2.5rem;
     height: 2.5rem;
-    background-image: url(https://drive.google.com/uc?export=download&id=1aLJvM1woi5nu9X3uT2nr64yiFIJaYEjg);/*electron*/
+    background-image: url(../img/electron2.jpg);/*electron*/
     background-size: contain;
     background-repeat: no-repeat;
   }
@@ -166,7 +166,7 @@
   .skill-f {
     width: 2.5rem;
     height: 2.5rem;
-    background-image: url(https://drive.google.com/uc?export=download&id=1iKzW7MvwqOgJtV66kB1yOXGo8vELVHpj);/*git*/
+    background-image: url(../img/git.png);/*git*/
     background-size: contain;
     background-repeat: no-repeat;
   }
@@ -174,7 +174,7 @@
   .skill-g {
     width: 2.5rem;
     height: 2.5rem;
-    background: url(https://drive.google.com/uc?export=download&id=1IMvTGbtBVWixP1Jx45865hQwoaFhlNtt);/*css*/
+    background: url(../img/css-3.png);/*css*/
     background-size: contain;
     background-repeat: no-repeat;
   }
